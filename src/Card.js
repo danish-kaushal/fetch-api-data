@@ -1,6 +1,6 @@
 import React from "react";
 
-const Card = ({ curr }) => {
+const Card = ({ curr}) => {
   const { first_name, last_name, avatar, email, id } = curr;
   return (
     <>
